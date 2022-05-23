@@ -1,3 +1,5 @@
-This a story
+This a great story
 
-Called learning Git
+Called learning Git with Platzi
+
+and this is the second version
