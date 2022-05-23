@@ -3,3 +3,5 @@ This a great story
 Called learning Git with Platzi
 
 and this is the second version
+
+this is the third version, where I mention that I'm learning Git
