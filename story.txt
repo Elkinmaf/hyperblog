@@ -6,4 +6,6 @@ and this is the second version
 
 this is the third version, where I mention that I'm learning Git
 
-Also, I'm learning python   
+Also, I'm learning python.
+
+Now I'm practicing editing and understanding staging
